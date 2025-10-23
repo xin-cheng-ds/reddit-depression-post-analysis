@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Output files
+*.jpeg
+*.jpg
+*.png
+topic_cloud.jpeg
+inertia_plot.png
+PCA_scatter.png
